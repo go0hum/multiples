@@ -1,0 +1,21 @@
+{
+    "name": "humberto/multiples",
+    "description": "Show multiples of x numbers of 3 and 5",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Humberto Santos",
+            "email": "1201hs@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Humberto\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
